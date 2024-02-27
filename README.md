@@ -1,16 +1,31 @@
-# photowall
+# Simple Wallpaper Application
 
-A new Flutter project.
+Welcome to the Pro-Wallpaper Application.
 
-## Getting Started
+## Table of Contents
+- Features
+- Samples
+- Contribution
 
-This project is a starting point for a Flutter application.
+## Features
+- Search Wallpaper
+- Intuitive UI for ease of use.
+- Easy to use.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Pictures of application 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img src="https://github.com/patelneel9080/Pro-Wallpaper/assets/136300996/df810c82-2cb6-461f-9a1a-f78eed47e915" width = "100%"/>
+
+
+
+
+## Contribution
+We welcome all contributions. Here's how you can help:
+
+- Fork this repository.
+- Make your changes in your forked repo.
+- Submit a pull request here.
+
+
